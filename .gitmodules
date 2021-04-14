@@ -1,0 +1,3 @@
+[submodule "moodle-theme_moove"]
+	path = moodle-theme_moove
+	url = https://gitlab.com/entornoseducativos/moodle-plugins/moodle-theme_moove.git
